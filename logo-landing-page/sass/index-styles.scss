@@ -1,0 +1,19 @@
+@import "compass/reset";
+@import "assets/general-styles";
+@import "main-elements/buttons";
+
+@import "sections/welcome";
+@import "sections/features-section";
+@import "sections/works-section";
+@import "sections/our-team";
+@import "sections/testemonials";
+@import "sections/download-section";
+
+@import "main-elements/header";
+@import "main-elements/main-footer";
+@import "assets/responsive";
+
+body{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
